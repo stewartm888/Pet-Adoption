@@ -3,11 +3,16 @@ Fred's repo for the Pet Adoption Capstone Project
 
 
 Our main data source is a dataset available at Kaggle.com on animal shelter records. Here are the tables we intend to use:
-    train.csv - Tabular/text data for the training set
-    test.csv - Tabular/text data for the test set
-    breed_labels.csv – Data dictionary on breed
-    color_labels.csv - Data dictionary on color
-    state_labels.csv - Data dictionary on location
+   
+   train.csv - Tabular/text data for the training set
+   
+   test.csv - Tabular/text data for the test set
+   
+   breed_labels.csv – Data dictionary on breed
+   
+   color_labels.csv - Data dictionary on color
+   
+   state_labels.csv - Data dictionary on location
     
     
 A brief description of what you will do
