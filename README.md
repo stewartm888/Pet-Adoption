@@ -13,7 +13,8 @@ Our main data source is a dataset available at Kaggle.com on animal shelter reco
    color_labels.csv - Data dictionary on color
    
    state_labels.csv - Data dictionary on location
-    
+ 
+ -----
     
 A brief description of what you will do
   1. First, we will perform a data quality check and EDA on training and testing data, for
